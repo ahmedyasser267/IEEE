@@ -1,0 +1,1 @@
+ a piece of memory that can contain a data value. Variables are typically used to store information which your Dart program needs to do its job. These variables are case sensitive. To declare a variable, write var directly before the variable
